@@ -1,4 +1,4 @@
-# setup-python
+setup-python
 
 [![Basic validation](https://github.com/actions/setup-python/actions/workflows/basic-validation.yml/badge.svg?branch=main)](https://github.com/actions/setup-python/actions/workflows/basic-validation.yml)
 [![Validate Python e2e](https://github.com/actions/setup-python/actions/workflows/test-python.yml/badge.svg?branch=main)](https://github.com/actions/setup-python/actions/workflows/test-python.yml)
